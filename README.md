@@ -1,2 +1,2 @@
 # demo session
-# Major description.
+# Major description!
